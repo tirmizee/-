@@ -25,3 +25,15 @@
 
 ### ทักษะสุดท้ายที่ขาดไม่ได้คือ ทักษะการเลียนาย(หยอกๆ) 
 
+### Good Skills to Include on Senior Java Developer
+
+- Knowledge of software architecture and implementation patterns
+- Strong relational database skills using PostgreSQL / Oracle
+- Core Java skills, knowledge of java frameworks like Spring
+- Lead and drive a team to deliver breakthrough results
+- Excellent communication and delegation, time management skills
+- Front end UI development with HTML, CSS, bootstrap, JQuery and JavaScript.
+- Strong knowledge of Java Web Frameworks (Hibernate, Spring, Spring security)
+- Knowledge of data warehouse
+- Mentoring junior team members
+- Problem-solving abilities
